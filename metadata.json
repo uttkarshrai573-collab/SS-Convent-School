@@ -1,0 +1,6 @@
+{
+  "name": "S.S. Convent Higher Secondary School Jabalpur",
+  "description": "Leading MP Board English medium higher secondary school in Jabalpur near Deendayal Chowk, Karmeta & Damoh Road. Quality academics from Nursery to 12th Grade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
